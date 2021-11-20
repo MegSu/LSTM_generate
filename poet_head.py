@@ -139,5 +139,3 @@ def get_hidden_poetry(heading,total_length = 1,temperature = 1.8):
     # result = "".join(result) #也是把串列連結成字串
     print(result)
     return result
-    
-get_hidden_poetry('藍天白雲')
