@@ -136,8 +136,3 @@ def get_hidden_poetry(heading,total_length,temperature = 1.8):
     print(result)
     return result
     #return text_generated
-
-
-get_hidden_poetry('藍天白雲',3)
-get_hidden_poetry('藍天白雲',4)
-get_hidden_poetry('藍天白雲',5)
